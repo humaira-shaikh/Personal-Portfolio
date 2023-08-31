@@ -38,3 +38,4 @@ I appreciate any suggestions, feedback, or contributions to enhance this persona
 If you have any questions or inquiries, please feel free to reach out to me through the contact information provided in the website or by using the contact form.
 
 Thank you for visiting my personal portfolio repository! I hope you find it informative and visually appealing.
+![Screenshot (32)](https://github.com/humaira-shaikh/Personal-Portfolio/assets/111051254/6566316d-8492-4236-b3df-6b310c45576e)
